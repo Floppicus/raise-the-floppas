@@ -1,5 +1,6 @@
 name: Bug report
 title: Game issue [BUG]
+description: Help us improve the game
 labels: bug
 assignees: Floppicus
 
